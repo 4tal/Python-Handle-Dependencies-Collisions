@@ -1,0 +1,6 @@
+dnspython==1.16.0
+docutils==0.15.2
+EasyProcess==0.2.7
+ecdsa==0.13
+Naked==0.1.31
+python-jose==3.0.1
